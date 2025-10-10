@@ -1,7 +1,6 @@
 # READ-ME
-No thanks for any type of description.
 
-# 👋 Hello Chooms, Name's Lance.
+# 👋 Whasupp Chooms!! I'm Lance.
 
 ### 🎮 Aspiring Game Developer & Tech Enthusiast
 
@@ -39,4 +38,4 @@ I enjoy exploring new technologies and bringing creative ideas to life through c
 <!-- GitHub Stats Badge (optional) -->
 <!-- ![1anc6's GitHub stats](https://github-readme-stats.vercel.app/api?username=1anc6&show_icons=true&theme=radical) -->
 
-See you chooms !
+See you around chooms !
